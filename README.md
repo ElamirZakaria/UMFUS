@@ -41,7 +41,7 @@ In today's interconnected world, maintaining up-to-date firmware across a vast n
 
 - Download the source code by clicking the green button with the code icon and then clicking 'Download ZIP' or by Cloning the Project 
      ```bash
-    git clone https://github.com/fadybassiouni/UMFUS.git
+    git clone https://github.com/ElamirZakaria/UMFUS.git
      ```
 - Unzip the file and open the folder
 - Import the Source and header files in your preferred IDE (Eclipse, Keil, etc..) for Each MCU Project individually
